@@ -18,8 +18,6 @@ título	Crie um título de um ebook sobre o tema de Financeiro
 conteúdo	Faça um texto para ebook , com foco em gestão financeira pessoal, depois do titulo definido
 fui ao Gemini e pedi uma imagem com foco no título escolhido.
 
-Ação	incitar
-título	Um Jedi em pose de meditação, com seu sabre de luz azul flutuando, estilo pixel art --v 5.1
 ✨ Características
 Conteúdo gerado via ChatGPT e Gemini
 Imagens geradas via Gemini e editados no Canva
