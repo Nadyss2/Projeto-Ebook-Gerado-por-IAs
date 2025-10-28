@@ -4,7 +4,7 @@ Ebook criado por IAs
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-📕
+📕https://github.com/Nadyss2/Projeto-Ebook-Gerado-por-IAs/blob/main/ebook%20editavel.docx
 
 💻 Tecnologias utilizadas no projeto
 ChatGPT
